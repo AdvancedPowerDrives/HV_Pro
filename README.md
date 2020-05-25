@@ -1,5 +1,5 @@
-Latest Revision: 1.1
+Latest Revision: 1.2
 
-To Install:
-1) Download the msi file
-2) Open and install to windows
+To Run:
+1) Download the EXE file
+2) Open and run in Windows
